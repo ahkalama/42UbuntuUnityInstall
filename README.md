@@ -13,5 +13,5 @@
 ### * Sondan bir önceki sürümü yüklüyoruz. Ve Sadece En Üstteki tik'i işaretliyoruz.
 ![Ekran Görüntüsü - 2024-12-03 15-13-09](https://github.com/user-attachments/assets/a4832453-9a55-4fcd-a5c0-b0d9ec92f312)
 
-### * Unity Başarıyla Kurulmuştur. İyi Proejeler dilerim.
+### * Unity Başarıyla Kurulmuştur. İyi Çalışmalar.
 ![Ekran Görüntüsü - 2024-12-03 15-13-47](https://github.com/user-attachments/assets/95177767-0b8f-4bc2-bc36-d59c76f11c32)
